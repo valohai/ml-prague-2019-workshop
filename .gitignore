@@ -1,0 +1,4 @@
+*.dmg
+*.exe
+*.tar
+docker-installers
